@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Tutoria_Proyecto_Final_IDNP</string>
+    <string name="title_activity_forum_view">Vista de foro</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="tvSesion">Sesion</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="btnSignOut">Cerrar Sesion</string>
+    <string name="textView">REGISTRO</string>
+    <string name="textView2">Nombre de usuario:</string>
+    <string name="textView3">Dirección de correo electrónico:</string>
+    <string name="textView7">Nombre</string>
+    <string name="textView8">Apellido paterno:</string>
+    <string name="textView9">Apellido materno</string>
+    <string name="textView4">Contraseña:</string>
+    <string name="textView5">Repite la contraseña:</string>
+    <string name="rbTeacher">Maestro</string>
+    <string name="textini">INICIAR SESIÓN</string>
+    <string name="textnam">Nombre de usuario</string>
+    <string name="textcontr">Contraseña</string>
+    <string name="cbRemember">Recuérdame</string>
+    <string name="rbStudent">Alumno</string>
+    <string name="btn" >Iniciar</string>
+    <string name="btnLogin1">Registrar</string>
+    <string name="textfo">FORO PUBLICO</string>
+    <string name="textanom">Anonimo</string>
+    <string name="addComment">Añadir comentario</string>
+    <string name="textregsi">Registrar sesion de estudio</string>
+    <string name="title">Titulo</string>
+    <string name="Description">Descripcion</string>
+    <string name="Location">Localizacion</string>
+    <string name="Year">Año</string>
+    <string name="month">Mes</string>
+    <string name="day">Dia</string>
+    <string name="allday">Todo el dia</string>
+    <string name="Hour">Hora</string>
+    <string name="Minute">Minuto</string>
+    <string name="hello_first_fragment">Hola primer fragmento</string>
+    <string name="hello_second_fragment">Hola segundo fragmento. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+</resources>

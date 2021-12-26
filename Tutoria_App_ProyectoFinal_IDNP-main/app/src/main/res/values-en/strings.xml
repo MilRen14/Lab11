@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutoria_Proyecto_Final_IDNP</string>
+    <string name="title_activity_forum_view">ForumView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tvSesion">Sesion</string>
+    <string name="btnLogin">Log in</string>
+    <string name="btnSignOut">Sign off</string>
+    <string name="textView">REGISTRATION</string>
+    <string name="textView2">Username:</string>
+    <string name="textView3">Email address:</string>
+    <string name="textView7">Name:</string>
+    <string name="textView8">Last name::</string>
+    <string name="textView9">Mothers last name:</string>
+    <string name="textView4">Password:</string>
+    <string name="textView5">Repeat password:</string>
+    <string name="rbTeacher">Teacher</string>
+    <string name="textini">LOG IN</string>
+    <string name="textnam">Username:</string>
+    <string name="textcontr">Password:</string>
+    <string name="cbRemember">Remember me</string>
+    <string name="rbStudent">Student</string>
+    <string name="btn" >Start</string>
+    <string name="btnLogin1">Register</string>
+    <string name="textfo">PUBLIC FORUM</string>
+    <string name="textanom">Anonymous</string>
+    <string name="addComment">Add comment</string>
+    <string name="textregsi">Register study session</string>
+    <string name="title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Location">Location</string>
+    <string name="Year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="allday">All day</string>
+    <string name="Hour">Hour</string>
+    <string name="Minute">Minute</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

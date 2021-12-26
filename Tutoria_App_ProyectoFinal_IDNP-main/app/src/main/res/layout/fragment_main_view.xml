@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.MainFragmentView">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/paisaje"
+        android:gravity="center|top|center_vertical"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvSesion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginBottom="20dp"
+            android:text="@string/tvSesion"
+            android:textAlignment="center"
+            android:textColor="#FDFBFB"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:layout_marginBottom="20dp"
+            app:srcCompat="@drawable/sesion" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/diseno_botoncircular_inicio"
+            android:shadowColor="@color/teal_200"
+            android:text="@s"
+            android:textAlignment="center"
+            android:textColor="#FDFBFB"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/btnSignOut"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/diseno_botoncircular_inicio"
+            android:shadowColor="@color/teal_200"
+            android:text="@string/btnSignOut"
+            android:textAlignment="center"
+            android:textColor="#FDFBFB"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
